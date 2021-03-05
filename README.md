@@ -3,6 +3,9 @@
 ### About Me
 I'm a musician and full stack web developer experienced in Ruby and JavaScript based programming. 
 
+### 🔭 I’m currently working on ...
+Laravel, PHP, and Vue
+
 [![Kevin Neyer's github stats](https://github-readme-stats.vercel.app/api?username=kevinneyer&show_icons=true&theme=dark)](https://github.com/kevinneyer/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinneyer&layout=compact&theme=dark)](https://github.com/kevinneyer/github-readme-stats)
