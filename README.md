@@ -1,15 +1,14 @@
-### Hi There, I'm Kevin 👋
+### Hi There, I'm Kevin
 
 ### About Me
-I'm a musician and full stack web developer experienced in Ruby and JavaScript based programming. 
-
-### 🔭 I’m currently working on ...
-Laravel, PHP, and Vue
+I'm a musician and full stack web developer experienced in Ruby, PHP, and JavaScript based programming. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinneyer&layout=compact&theme=dark)](https://github.com/kevinneyer/github-readme-stats)
  
 <!--
 **kevinneyer/kevinneyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on ...
+Laravel, PHP, and Vue
 [![Kevin Neyer's github stats](https://github-readme-stats.vercel.app/api?username=kevinneyer&show_icons=true&theme=dark)](https://github.com/kevinneyer/github-readme-stats)
 Here are some ideas to get you started:
 
